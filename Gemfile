@@ -44,6 +44,9 @@ gem 'mail', '>= 2.8.0.rc1'
 # mutex_m
 gem 'mutex_m', '~> 0.3.0'
 
+# Use Stripe for receiving payments
+gem 'stripe'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
